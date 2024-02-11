@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working with an **aerospatial company**
 
+- 🔭 I’m a Master Student at **Ynoc Campus**
+
 - 🌱 I’m currently learning **Quantum Machine Learning and Deployment**
 
 - 👯 I’m looking to collaborate on **data science projects**
