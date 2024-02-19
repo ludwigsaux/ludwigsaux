@@ -12,5 +12,3 @@
 - 💬 Ask me about **ML, DL, ETL**
 
 - 📫 How to reach me **Ludwig.saux@hotmail.com**
-
-- ⚡ Fun fact **I love video games**
