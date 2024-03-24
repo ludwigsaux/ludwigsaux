@@ -5,7 +5,7 @@
 
 - 🎓 I’m a Master Student at **Ynov Campus**
 
-- 🌱 I’m currently learning **Quantum Machine Learning and Deployment**
+- 🌱 I’m currently learning **Deployments, Tests and Databases**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
