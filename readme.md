@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ludwig</h1>
-<h3 align="center">A passionate data scientist working in France</h3>
+<h3 align="center">A passionate data engineer working in France</h3>
 
-- 🔭 I’m currently working with an **aerospatial company**
+- 🔭 I  worked for an **aerospatial company**
 
-- 🎓 I’m a Master Student at **Ynov Campus**
+- 🎓 I have a Master at **Ynov Campus**
 
-- 🌱 I’m currently learning **Deployments, Tests and Databases**
+- 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **data engineering projects**
 
 - 💬 Ask me about **ML, DL, ETL**
 
